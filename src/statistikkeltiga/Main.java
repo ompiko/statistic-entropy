@@ -1,8 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/**detail member group 3:
+Noor Afifah Haifa Nabilah Z (201810370311099),
+Irma Alfiatul Hadawiyah (201810370311111),
+Fadlurrachman (201810370311121),
+Mochamad Syafiq Wahyu A (201810370311128),
+Muhammad Sifani Affan (201810370311130).
+**/
 package statistikkeltiga;
 
 import java.util.Scanner;
